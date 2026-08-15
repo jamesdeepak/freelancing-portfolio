@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /confidential
+Disallow: /api/
+Disallow: /uploads/
+
+Sitemap: https://deepak-freelance.vercel.app/sitemap.xml
